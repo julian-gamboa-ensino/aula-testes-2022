@@ -71,3 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 - https://testing-library.com/docs/react-testing-library/cheatsheet/
 - https://testing-library.com/docs/queries/about/
+- Aula de outro professor: https://github.com/washingtondeveloper/youtube-react-test-component e https://www.youtube.com/watch?v=pbwXsjVEMqg
